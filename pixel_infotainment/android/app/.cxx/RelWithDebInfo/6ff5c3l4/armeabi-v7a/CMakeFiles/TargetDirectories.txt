@@ -1,0 +1,3 @@
+C:/Users/petla/Downloads/Pixel_IVI-IVI_All_Features/Pixel_IVI-IVI_All_Features/pixel_infotainment/android/app/.cxx/RelWithDebInfo/6ff5c3l4/armeabi-v7a/CMakeFiles/hello-lib.dir
+C:/Users/petla/Downloads/Pixel_IVI-IVI_All_Features/Pixel_IVI-IVI_All_Features/pixel_infotainment/android/app/.cxx/RelWithDebInfo/6ff5c3l4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/petla/Downloads/Pixel_IVI-IVI_All_Features/Pixel_IVI-IVI_All_Features/pixel_infotainment/android/app/.cxx/RelWithDebInfo/6ff5c3l4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

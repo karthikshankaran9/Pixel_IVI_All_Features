@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello-lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello-lib-Debug-b39145b87747e3df5627.json",
+					"name" : "hello-lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/petla/Downloads/Pixel_IVI-IVI_All_Features/Pixel_IVI-IVI_All_Features/pixel_infotainment/android/app/.cxx/Debug/2270173m/x86_64",
+		"source" : "C:/Users/petla/Downloads/Pixel_IVI-IVI_All_Features/Pixel_IVI-IVI_All_Features/pixel_infotainment/android/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

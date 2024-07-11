@@ -1,0 +1,11 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:luminosity">
+<rect width="1280" height="800" transform="matrix(1 0 0 -1 0 800)" fill="url(#paint0_linear_1724_54749)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1724_54749" x1="640" y1="0" x2="640" y2="768" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
+</svg>
